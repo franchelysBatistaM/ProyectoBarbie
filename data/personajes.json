@@ -1,0 +1,20 @@
+[
+    {
+        "id": "683bcd2b4548f",
+        "nombre": "Kevin",
+        "apellido": "Wayan",
+        "nacimiento": "1999-07-07",
+        "foto": "img\/683bcd2b4548f.png",
+        "profesion": "Cientifico",
+        "experiencia": "Principiante"
+    },
+    {
+        "id": "683c3b686dba6",
+        "nombre": "Junior",
+        "apellido": "Turan",
+        "nacimiento": "1989-02-21",
+        "foto": "img\/683c3b686dba6.png",
+        "profesion": "Productor musical",
+        "experiencia": "Avanzado"
+    }
+]

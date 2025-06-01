@@ -1,0 +1,27 @@
+[
+    {
+        "nombre": "Maestra",
+        "categoria": "Educaci\u00f3n",
+        "salario": 1000
+    },
+    {
+        "nombre": "Cientifico",
+        "categoria": "Ciencia",
+        "salario": 2000
+    },
+    {
+        "nombre": "ingenieria en software",
+        "categoria": "Tecnologia",
+        "salario": 3000
+    },
+    {
+        "nombre": "Ingenieria en computacional",
+        "categoria": "Tecnologia",
+        "salario": 4000
+    },
+    {
+        "nombre": "Productor musical",
+        "categoria": "Arte",
+        "salario": 1000
+    }
+]
